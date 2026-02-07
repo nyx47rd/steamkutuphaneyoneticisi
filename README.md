@@ -18,7 +18,7 @@
 
 ## 📥 Kullanım
 
-1. **Uygulamayı İndirin:** `SteamLibraryManager.exe` dosyasını bilgisayarınıza indirin.
+1. **Uygulamayı İndirin:** Releases kısmından latest versiondaki `SteamLibraryManager.exe` dosyasını bilgisayarınıza indirin.
 2. **Çalıştırın:** Dosyaya çift tıklayın. (Yönetici haklarına ihtiyaç duyabilir, gerekirse sağ tıklayıp "Yönetici olarak çalıştır" deyin).
 3. **Kurulum Sihirbazı:** İlk açılışta uygulama Steam klasörünü otomatik bulur. Bulamazsa size soracaktır.
 4. **DLC Ekleme:**
