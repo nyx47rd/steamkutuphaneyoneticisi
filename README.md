@@ -2,7 +2,9 @@
 
 **Steam Kütüphane Yöneticisi**, Steam oyunlarınızın DLC (Ek İndirilebilir İçerik) paketlerini bulmanızı, yönetmenizi ve kütüphanenize kolayca eklemenizi sağlayan modern, taşınabilir (portable) bir Windows uygulamasıdır.
 
-![App Icon](https://github.com/nyx47rd/steamkutuphaneyoneticisi/blob/4605fd3384119a59493a7b5521df65a2aaeda7e0/app_icon.png?raw=true) 
+<p align="center">
+  <img src="https://github.com/nyx47rd/steamkutuphaneyoneticisi/blob/4605fd3384119a59493a7b5521df65a2aaeda7e0/app_icon.png?raw=true" width="128" height="128" />
+</p>
 
 ## 🌟 Özellikler
 
